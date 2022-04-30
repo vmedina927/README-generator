@@ -32,3 +32,6 @@ To run tests, run these commands:
 ```
 npm test
 ```
+## Demo Functionality
+
+![alt text](https://github.com/vmedina927/README-generator/blob/main/ScreenRecording.mov?raw=true)
