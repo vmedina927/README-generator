@@ -34,4 +34,4 @@ npm test
 ```
 ## Demo Functionality
 
-Link to demo - [ScreenRecording](./Recording/ScreenRecording.mp4)
+Link to demo - [ScreenRecording](https://drive.google.com/file/d/1Xaflxs5sQVd4N9nEIyOTCLd9DGGUuc5D/view)
