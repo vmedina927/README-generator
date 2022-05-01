@@ -18,7 +18,7 @@ To install dependencies, run these commands:
 npm i
 ```
 ## Usage 🏆
-Use inquirer from your command line to answer questions about your project.
+The user should clone the repository from Github and download Node.  This application also requires a file system and inquirer module.  Also, use inquirer from your command line to answer questions about your project.
 ## License 📛
 Copyright © MIT. All rights reserved. 
         
