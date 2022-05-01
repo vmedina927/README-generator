@@ -3,7 +3,7 @@
 ## Github URL 🌐
 [vmedina927](https://github.com/vmedina927/)
 ## Description 📝
-This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js.
+This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
 ## Table of Contents 🗒
 * [Installations](#dependencies)
 * [Usage](#usage)
@@ -34,4 +34,4 @@ npm test
 ```
 ## Demo Functionality
 
-![alt text](./Recording/ScreenRecording.mov)
+Link to demo [Screencastify] (https://drive.google.com/file/d/1Xaflxs5sQVd4N9nEIyOTCLd9DGGUuc5D/view)
